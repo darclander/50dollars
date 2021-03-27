@@ -64,4 +64,9 @@ int main () {
         x--;
     }
 
+    // Cleanup
+    for(int i = 0; i < 10; i++) {
+        delete &arr[i];
+    }
+
 }
