@@ -8,7 +8,7 @@ The result is currently being spammed out in the console in a _**while(x > 0)**_
 **Possible updates:** 
 - <s>Make a graphical interface to display the stack of dollars people have</s>.
 
-     A graphical interface has now been implemented.
+     A graphical interface has now been implemented using SDL2.
 
 - Create a better randomizer function. 
 - Create a better sorting algorithm. _(Currently using standard library)_.
